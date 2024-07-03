@@ -11,4 +11,5 @@ I'm a Full Stack Web Developer with over 2.5 years of experience. I specialize i
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
+![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)
 
