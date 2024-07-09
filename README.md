@@ -11,6 +11,9 @@ I'm a Full Stack Web Developer with over 2.5 years of experience. I specialize i
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
+![Total Commits](https://img.shields.io/github/commit-activity/y/{Rizraizada}/{repository})
+
+
 ## 📫 How to reach me:
 - [Email](rizraizada000@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/zahidul-islam-186650229/)
