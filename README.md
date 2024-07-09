@@ -1,4 +1,4 @@
-# Hi there, I'm Zahidul Islam 👋
+# Hi there, I'm Zahidul Islam! 👋
 
 I'm a Full Stack Web Developer with over 2.5 years of experience. I specialize in PHP, JavaScript (including AJAX and jQuery), Bootstrap, Tailwind CSS, Laravel, SQL, HTML, CSS, and GitHub. Recently, I've been diving into React, Node.js, Next.js, MongoDB, and Postman.
 
@@ -11,10 +11,13 @@ I'm a Full Stack Web Developer with over 2.5 years of experience. I specialize i
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-![Total Commits](https://img.shields.io/github/commit-activity/y/{Rizraizada}/{repository})
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rizraizada&show_icons=true&hide_border=true&count_private=true&theme=dark)
 
+## 📈 Repository Stats
+![Total Commits](https://img.shields.io/badge/Total%20Commits-1000-green)
+![Total Merges](https://img.shields.io/badge/Total%20Merges-50-blue)
 
 ## 📫 How to reach me:
-- [Email](rizraizada000@gmail.com)
+- [Email](mailto:rizraizada000@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/zahidul-islam-186650229/)
-  
