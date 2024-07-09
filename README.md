@@ -13,7 +13,6 @@ I'm a Full Stack Web Developer with over 2.5 years of experience. I specialize i
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rizraizada&show_icons=true&hide_border=true&count_private=true&theme=dark)
-
 ## 📈 Repository Stats
 ![Total Commits](https://img.shields.io/badge/Total%20Commits-1000-green)
 ![Total Merges](https://img.shields.io/badge/Total%20Merges-50-blue)
