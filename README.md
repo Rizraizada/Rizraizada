@@ -1,6 +1,6 @@
 # Hi there, I'm Zahidul Islam! 👋
 
-I'm a Full Stack Web Developer. I specialize in PHP, JavaScript (including AJAX and jQuery), Bootstrap, Tailwind CSS, Laravel, SQL, HTML, CSS, and GitHub. Recently, I've been diving into React, Node.js, Next.js, MongoDB, and Postman.
+I'm a Full Stack Web Developer.....Love to lEarn New
 
 ## 🔧 Technologies & Tools
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
